@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [XpoSequencer.cs](./CS/XpoSequencer.cs) (VB: [XpoSequencer.vb](./VB/XpoSequencer.vb))
+* [XpoServerId.cs](./CS/XpoServerId.cs) (VB: [XpoServerId.vb](./VB/XpoServerId.vb))
+<!-- default file list end -->
 # How to make user-friendly object identifiers
 
 
